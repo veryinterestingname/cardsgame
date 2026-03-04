@@ -6,7 +6,9 @@ Objective: beat the dealer's hand by either:
 
 card values:
 number cards (2-10) are worth their face value
+
 face cards (J, Q, K) are all worth 10
+
 Aces are worth either 1 or 11 (The game automatically chooses the value that gives you the highest score without busting)
 
 How to play
@@ -23,11 +25,15 @@ Once the cards are dealt, you can choose one of the following actions:
 Dealer's turn:
 
 After you finish your turn(s) without busting, the dealer reveals their hidden card, then:
+
 the dealer must hit if their total is 16 or lower
+
 the dealer must stand if their total is 17 or higher
 
 If your total is higher than the dealer's you win, your bet is doubled, and added to your balance
+
 If you bust (go over 21) or if the dealer's total is higher than yours, you lose your bet.
+
 If you and the dealer have the same total, it's a tie, and your bet is returned to you with no additional money.
 
 The game keeps going until you have 0$ in your bank account, at which point you can choose to play again, starting with 1000$ like you did at first
